@@ -2,3 +2,4 @@ hello Tian! hello git
 Hello SpringBoot Git
 Hello SpringBoot Git master test
 Hello SpringBoot Git hot-fix test
+INSERT INTO users(username,password) values("zhangsan",123);
